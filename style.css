@@ -1,8 +1,19 @@
 body {
-      background: palegreen
+      background: palegreen;
 }
 img{
-    width:100px;
-    height: 100px;
+    width:220px;
+    height: 270px;
+
+}
+
+h1 
+{
+    text-align: center;
+}
+p {
+    font-size:20px;
 }
        
+
+
