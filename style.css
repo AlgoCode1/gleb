@@ -3,7 +3,7 @@ body {
 }
 img{
     width:220px;
-    height: 270px;
+    height: 220px;
 
 }
 
@@ -14,6 +14,9 @@ h1
 p {
     font-size:20px;
 }
-       
 
 
+.qq {
+height: 100px;
+    width: 100px;
+}
